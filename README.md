@@ -12,3 +12,5 @@ Python service that parse through RSS feed from The Hacker News and return daily
 `docker build -t hacker-news .`
 
 `docker run -it --rm -p 8080:8080 hacker-news:latest`
+# License
+[GNU General Public License v3.0](LICENSE)
